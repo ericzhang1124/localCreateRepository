@@ -6,3 +6,4 @@ This branch is new branch.
 this is right message.
 dev commit1.
 dev commit2.
+ericfix commit1.
