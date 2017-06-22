@@ -7,3 +7,4 @@ this is right message.
 dev commit1.
 dev commit2.
 ericfix commit1.
+ericfix commit2.
